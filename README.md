@@ -1,5 +1,5 @@
 # Exempel-API med Express
-Ett skal för ett REST-API som använder NodeJs och Express.
+Ett skal för ett REST-API som använder NodeJs och Express.  
 Cors används för att tillåta alla anrop från alla domäner (fungerar ok som expempel, men är inte att rekommendera i en riktig webbplats).
 
 ## Installation
@@ -9,7 +9,7 @@ Starta sedan applikationen med:
 **npm run serve**
 
 ## Uppdatering och nyheter
-Installation av nodemon 
+Installation av nodemon   
 Nya och förändrade routes
 
 ## Routes
