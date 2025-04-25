@@ -24,5 +24,5 @@ Om någon annan route än ovan anropas ges ett felmeddelande som svar.
 
 ## Av
 Av Mattias Dahlgren, Mittuniversitetet, mattias.dahlgren@miun.se
-# Förvaltat av
+### Förvaltat av
 Torbjörn Lundberg, student Mittuniversitete, tolu2403@student.miun.se
