@@ -1,0 +1,20 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "ett enkelt api med express och mongoDB",
+  "main": "server.js",
+  "scripts": {
+    "serve": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Mattias Dahlgren , updtaed by Torbjörn Lundberg",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
