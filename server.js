@@ -70,7 +70,7 @@ app.post('/reviews', async (req, res) => {
         let result = await Review.create(req.body);
         return res.status(201).json(result);
     } catch (error) {
-        return res.status(400).json({ message: "Der gick inte att skapa bokrecensionen", error });
+        return res.status(400).json({ message: "Det gick inte att skapa bokrecensionen", error });
     }
 });        
 
@@ -93,7 +93,7 @@ app.put('/reviews/:id', async (req, res) => {
             return res.status(404).json({ message: "Bokrecensionen du sökte hittades inte" });
         }           
         return res.status(200).json(result);
-    } catch (error) {
+    } catch (error) { 
         return res.status(400).json({ message: "Det gick inte att uppdatera posten", error });
     }
 });
