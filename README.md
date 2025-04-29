@@ -12,6 +12,9 @@ Starta sedan applikationen med:
 Installation av nodemon   
 Nya och förändrade routes
 
+## Databas
+I detta repo används MongoDB som databas
+
 ## Routes
 Dessa "endpoints" används:
 * GET: 	http://localhost:3000/api/ 						-> Returnerar hälsningsfras  
