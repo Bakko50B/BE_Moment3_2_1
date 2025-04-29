@@ -14,15 +14,15 @@ Nya och förändrade routes
 
 ## Routes
 Dessa "endpoints" används:
-* GET: 	http://localhost:3000/api/ 						-> Returnerar hälsningsfras
-* GET: 	http://localhost:3000/reviews 				    -> Visas alla bokrecensioner
-* POST: http://localhost:3000/reviews 			        -> Lägg till bokrecension
-* PUT: 	http://localhost:3000/reviews/:id			    -> Uppdatera en bokrecension
-* DELETE: http://localhost:3000/reviews/:id	            -> Radera en bokrecension
-* GET: http://localhost:3000/vadsomhelst                -> Visar ett meddelande om routen saknas
-Om någon annan route än ovan anropas ges ett felmeddelande som svar.
+* GET: 	http://localhost:3000/api/ 						-> Returnerar hälsningsfras  
+* GET: 	http://localhost:3000/reviews 				    -> Visas alla bokrecensioner  
+* POST: http://localhost:3000/reviews 			        -> Lägg till bokrecension  
+* PUT: 	http://localhost:3000/reviews/:id			    -> Uppdatera en bokrecension  
+* DELETE: http://localhost:3000/reviews/:id	            -> Radera en bokrecension  
+* GET: http://localhost:3000/vadsomhelst                -> Visar ett meddelande om routen saknas  
+Om någon annan route än ovan anropas ges ett felmeddelande som svar.  
 
 ## Av
-Av Mattias Dahlgren, Mittuniversitetet, mattias.dahlgren@miun.se
-### Förvaltat av
-Torbjörn Lundberg, student Mittuniversitete, tolu2403@student.miun.se
+Av Mattias Dahlgren, Mittuniversitetet, mattias.dahlgren@miun.se  
+### Förvaltat av  
+Torbjörn Lundberg, student Mittuniversitete, tolu2403@student.miun.se  
